@@ -5,6 +5,7 @@ The objective of this project is analyzes supermarket transaction data to discov
 The important libraries used in this project are: pandas, mlxtend, seaborn, matplotlib, and plotly.
 
 Project Member: 
+
 Rawan Alharthi 444001029
 
 Mashael Abdali 444001062
