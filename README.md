@@ -6,5 +6,7 @@ The important libraries used in this project are: pandas, mlxtend, seaborn, matp
 
 Project Member: 
 Rawan Alharthi 444001029
+
 Mashael Abdali 444001062
+
 Shaimaa Alghamdi 444000746
