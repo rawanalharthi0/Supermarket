@@ -4,7 +4,7 @@
 
 • The important libraries used in this project are: pandas, mlxtend, seaborn, matplotlib, and plotly.
 
-• Project Member: 
+• Team Members: 
 
 Rawan Alharthi 444001029
 
